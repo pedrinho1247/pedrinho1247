@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Atualmente trabalho como Auxiliar de TI
-- 🌱 Sou formado em Matemática e estudo Engenharia da Computação
-- 🔎 Em bsuca de um estágio na área de desenvolvimento
+- 🌱 Sou formado em Matemática e Engenharia da Computação
+- 🔎 Em busca de uma vaga na área de desenvolvimento
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinho1247&layout=donut)](https://github.com/pedrinho1247/github-readme-stats)
 
